@@ -1,1 +1,20 @@
-
+[
+	{
+		"id": "com.aayush.yorku.studybuddy",
+		"endpoint": "https://study-buddies-yu.nn.r.appspot.com/courses/",
+		"developer_name": "Jerry Chen",
+		"developer_url": "https://github.com/jerry70450"
+	},
+	{
+		"id": "com.aayush.yorku.directions",
+		"endpoint": "",
+		"developer_name": "Isaac Kogan",
+		"developer_url": "https://github.com/isaackogan"
+	},
+	{
+		"id": "com.aayush.yorku.news",
+		"endpoint": "",
+		"developer_name": "Aayush Pokharel",
+		"developer_url": "https://github.com/Aayush9029"
+	}
+]
