@@ -1,8 +1,11 @@
-# YorkuPublic
-Public database for YorkU iOS App.
+# 🌍 YorkuPublic
 
-Note: The data is public for anyone to use :D
+## Hi there!
 
----
+- #### Create an Issue for ✨ Feature Requests and 🐞 Bug Reports
 
-Make sure to read the LICENSE.md first!
+- #### PRs are 🙅‍♂️ NOT welcome for now* :)
+
+```js
+ - Discord 💬 nerdaware#2845
+```
