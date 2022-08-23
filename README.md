@@ -1,8 +1,11 @@
-# YorkuPublic
-Public database for YorkU iOS App.
+# 🌍 YorkuPublic
 
-Note: The data is public for anyone to use :D
+🌐 Public database for YorkU iOS App.
+
+📚 The data is public for anyone to use :D
+
+📲  Courses data is Saved On Device.
 
 ---
 
-Make sure to read the LICENSE.md first!
+📖 Please, make sure to read the LICENSE.md
