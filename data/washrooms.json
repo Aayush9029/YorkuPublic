@@ -1,0 +1,322 @@
+[
+    {
+        "name": "Osgoode Hall Law School, Ignat Kaneff Building",
+        "address": "92 Scholars Walk",
+        "url": "https://maps.info.yorku.ca/2012/09/osgoode-hall-law-school-ignat-kaneff-building/",
+        "washrooms": [
+            {
+                "gender": "Women",
+                "rooms": [
+                    "0502",
+                    "1503",
+                    "2501",
+                    "2504",
+                    "3501",
+                    "4501"
+                ]
+            },
+            {
+                "gender": "Men",
+                "rooms": [
+                    "0500",
+                    "1504",
+                    "2503",
+                    "3500",
+                    "4500"
+                ]
+            },
+            {
+                "gender": "Neutral",
+                "rooms": [
+                    "1501"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "York Hall, A Wing",
+        "address": "York University",
+        "url": "https://maps.info.yorku.ca/2010/12/york-hall-a-wing/",
+        "washrooms": [
+            {
+                "gender": "Neutral",
+                "rooms": [
+                    "037"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Health, Nursing & Environmental Studies",
+        "address": "104 Scholars Walk",
+        "url": "https://maps.info.yorku.ca/2010/06/health-nursing-environmental-studies/",
+        "washrooms": [
+            {
+                "gender": "Neutral",
+                "rooms": [
+                    "042",
+                    "043",
+                    "148",
+                    "149",
+                    "260B",
+                    "292",
+                    "292A",
+                    "362",
+                    "363",
+                    "417A",
+                    "434"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Norman Bethune College",
+        "address": "170 Campus Walk",
+        "url": "https://maps.info.yorku.ca/2010/06/bethune-college/",
+        "washrooms": [
+            {
+                "gender": "Neutral",
+                "rooms": [
+                    "200B"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Victor Phillip Dahdaleh Building",
+        "address": "88 The Pond Road",
+        "url": "https://maps.info.yorku.ca/2010/06/technology-enhanced-learning/",
+        "washrooms": [
+            {
+                "gender": "Women",
+                "rooms": [
+                    "1170A",
+                    "1198"
+                ]
+            },
+            {
+                "gender": "Men",
+                "rooms": [
+                    "1171",
+                    "1199"
+                ]
+            },
+            {
+                "gender": "Neutral",
+                "rooms": [
+                    "0161",
+                    "0177",
+                    "2174",
+                    "2180",
+                    "2197",
+                    "3192",
+                    "3198",
+                    "4179",
+                    "4198",
+                    "5180",
+                    "5198"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Life Sciences Building",
+        "address": "6 Thompson Road",
+        "url": "https://maps.info.yorku.ca/2010/06/life-sciences-building/",
+        "washrooms": [
+            {
+                "gender": "Neutral",
+                "rooms": [
+                    "296"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Vari Hall",
+        "address": "100 York Boulevard",
+        "url": "https://maps.info.yorku.ca/2010/06/vari-hall/",
+        "washrooms": [
+            {
+                "gender": "Men",
+                "rooms": [
+                    "1039"
+                ]
+            },
+            {
+                "gender": "Women",
+                "rooms": [
+                    "1035"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Lumbers",
+        "address": "115 Ottawa Road",
+        "url": "https://maps.info.yorku.ca/2010/06/lumbers/",
+        "washrooms": [
+            {
+                "gender": "Women",
+                "rooms": [
+                    "230"
+                ]
+            },
+            {
+                "gender": "Men",
+                "rooms": [
+                    "231"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Ignat Kaneff Building, Osgoode Hall Law School",
+        "address": "92 Scholars Walk",
+        "url": "https://maps.info.yorku.ca/2010/06/osgoode-hall-law-school/",
+        "washrooms": [
+            {
+                "gender": "Women",
+                "rooms": [
+                    "0502",
+                    "1503",
+                    "2501",
+                    "2504",
+                    "3501",
+                    "4501"
+                ]
+            },
+            {
+                "gender": "Men",
+                "rooms": [
+                    "0500",
+                    "1504",
+                    "2503",
+                    "3500",
+                    "4500"
+                ]
+            },
+            {
+                "gender": "Neutral",
+                "rooms": [
+                    "1501"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "West Office Building",
+        "address": "154 Ottawa Road",
+        "url": "https://maps.info.yorku.ca/2010/06/west-office-building/",
+        "washrooms": [
+            {
+                "gender": "Women",
+                "rooms": [
+                    "198"
+                ]
+            },
+            {
+                "gender": "Men",
+                "rooms": [
+                    "197"
+                ]
+            },
+            {
+                "gender": "Neutral",
+                "rooms": [
+                    "199"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "York Lanes",
+        "address": "80 York Boulevard",
+        "url": "https://maps.info.yorku.ca/2010/06/york-lanes/",
+        "washrooms": [
+            {
+                "gender": "Men",
+                "rooms": [
+                    "236"
+                ]
+            },
+            {
+                "gender": "Women",
+                "rooms": [
+                    "238"
+                ]
+            },
+            {
+                "gender": "Neutral",
+                "rooms": [
+                    "125",
+                    "291",
+                    "308"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Behavioural Science",
+        "address": "96 York Boulevard",
+        "url": "https://maps.info.yorku.ca/2010/06/behavioural-science/",
+        "washrooms": [
+            {
+                "gender": "Women",
+                "rooms": [
+                    "161A"
+                ]
+            },
+            {
+                "gender": "Neutral",
+                "rooms": [
+                    "111",
+                    "170",
+                    "276A"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Atkinson",
+        "address": "96 The Pond Road",
+        "url": "https://maps.info.yorku.ca/2010/06/atkinson/",
+        "washrooms": [
+            {
+                "gender": "Neutral",
+                "rooms": [
+                    "119A"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Calumet College",
+        "address": "75 Arboretum Lane",
+        "url": "https://maps.info.yorku.ca/2010/06/calumet-college/",
+        "washrooms": [
+            {
+                "gender": "Men",
+                "rooms": [
+                    "111"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "York Research Tower",
+        "address": "74 York Boulevard",
+        "url": "https://maps.info.yorku.ca/2010/06/york-research-tower/",
+        "washrooms": [
+            {
+                "gender": "Neutral",
+                "rooms": [
+                    "185",
+                    "292",
+                    "592",
+                    "992"
+                ]
+            }
+        ]
+    }
+]
