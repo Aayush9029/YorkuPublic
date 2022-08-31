@@ -8,14 +8,6 @@
 		"broken": false,
 	},
 	{
-		"id": "com.aayush.yorku.directions",
-		"endpoint": "",
-		"developer_name": "Isaac Kogan",
-		"developer_url": "https://github.com/isaackogan",
-		"mine": false,
-		"broken": false
-	},
-	{
 		"id": "com.aayush.yorku.news",
 		"endpoint": "",
 		"developer_name": "Aayush Pokharel",
