@@ -1,19 +1,41 @@
 [
 	{
-		"id": "com.aayush.yorku.studybuddy",
-		"endpoint": "https://study-buddies-yu.nn.r.appspot.com/courses/",
-		"developer_name": "Jerry Chen",
-		"developer_url": "https://github.com/jerry70450",
-		"mine": false,
-		"broken": false,
-	},
-	{
 		"id": "com.aayush.yorku.news",
 		"endpoint": "",
 		"developer_name": "Aayush Pokharel",
 		"developer_url": "https://github.com/Aayush9029",
 		"mine": true,
 		"broken": true,
-		"error_message": "Endpoint Has Not Been Implemented Yet"
-	}
+		"error_message": "Endpoint Has Not Been Implemented Yet",
+		"version": 0,
+	},
+	
+	{
+		"id": "com.aayush.yorku.washrooms",
+		"endpoint": "https://aayush9029.github.io/YorkuPublic/data/washrooms.json",
+		"developer_name": "Aayush Pokharel",
+		"developer_url": "https://github.com/Aayush9029",
+		"mine": true,
+		"broken": false,
+		"version": 1,
+	},
+	
+	{
+		"id": "com.aayush.yorku.food",
+		"endpoint": "https://aayush9029.github.io/YorkuPublic/data/dining.json",
+		"developer_name": "Aayush Pokharel",
+		"developer_url": "https://github.com/Aayush9029",
+		"mine": true,
+		"broken": false,
+		"version": 1,
+	},
+	{
+		"id": "com.aayush.yorku.studybuddy",
+		"endpoint": "https://study-buddies-yu.nn.r.appspot.com/courses/",
+		"developer_name": "Jerry Chen",
+		"developer_url": "https://github.com/jerry70450",
+		"mine": false,
+		"broken": false,
+		"version": 1,
+	},
 ]
