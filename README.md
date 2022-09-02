@@ -2,7 +2,7 @@
 
 🌐 Public database for YorkU iOS App.
 
-📚 The free* is public for anyone to use :D
+📚 The data is free* for anyone to use :D
 
 📲  Courses data is Saved On Device.
 
