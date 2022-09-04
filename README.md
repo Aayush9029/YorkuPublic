@@ -33,6 +33,12 @@ git checkout server
 # Go to server folder
 cd server
 
+# Activate pipenv (optional)
+pipenv shell
+
+# Install dependencies
+pip install -r requirements.txt
+
 # Run server
 python3 server.py
 
