@@ -1,6 +1,6 @@
-# 🌍 YorkuPublic - Public database + server for YorkU iOS App.
+# 🌍 YorkuPublic - Public database for YorkU iOS App.
 
-📚 The data + server is *free* for anyone to use :D
+📚 The data is *free* for anyone to use :D
 
 📲  Courses data is saved on device.
 
@@ -9,7 +9,7 @@
 🚽 washrooms.json contains nearby washrooms data.
 
 🐍 [Fastapi](https://fastapi.tiangolo.com/) server hosts news.json since this changes more often compared to other data.
- - Check /server folder for more details
+ - Check server branch folder for more details
 
 ---
 
