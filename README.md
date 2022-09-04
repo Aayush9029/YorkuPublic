@@ -8,8 +8,7 @@
 
 🚽 washrooms.json contains nearby washrooms data.
 
-🐍 [Fastapi](https://fastapi.tiangolo.com/) server hosts news.json since this changes more often compared to other data.
- - Check server branch folder for more details
+🐍 news.json is dynamic and is hosted on a  [fastapi](https://fastapi.tiangolo.com/) server.
 
 ---
 
