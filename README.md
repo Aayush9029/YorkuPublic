@@ -1,17 +1,18 @@
-# 🌍 YorkuPublic
+# 🌍 YorkuPublic - Public database + server for YorkU iOS App.
 
-🌐 Public database for YorkU iOS App.
+📚 The data + server is *free* for anyone to use :D
 
-📚 The data is free* for anyone to use :D
+📲  Courses data is saved on device.
 
-📲  Courses data is Saved On Device.
+🍲 dining.json contains food places data.
 
-🍲 Dining.json contains Food Places Data.
+🚽 washrooms.json contains nearby washrooms data.
 
-🚽 Washrooms.json contains nearby Washroom Data.
+🐍 [Fastapi](https://fastapi.tiangolo.com/) server hosts news.json since this changes more often compared to other data.
+ - Check /server folder for more details
 
 ---
 
 📖 Please, make sure to read the LICENSE.md*
 
-⚠️ The API Structure can change at any point as i'm still polishing things on my end
+⚠️ **NOTE:** The API Structure can change at any point as i'm still polishing things on my end
