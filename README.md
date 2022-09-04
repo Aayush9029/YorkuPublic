@@ -27,22 +27,25 @@
 ### 🐍 Usage
 
 ```bash
+# clone repo
+git clone https://github.com/Aayush9029/YorkuPublic
+
 # checkout server branch
 git checkout server
 
-# Go to server folder
+# go to server folder
 cd server
 
-# Activate pipenv (optional)
+# activate pipenv (optional)
 pipenv shell
 
-# Install dependencies
+# install dependencies
 pip install -r requirements.txt
 
-# Run server
+# run server
 python3 server.py
 
-# Run server - in background mode
+# run server - background mode
 nohup python3 server.py & > /dev/null
 ```
 ---
