@@ -1,18 +1,44 @@
-# 🌍 YorkuPublic - Public database for YorkU iOS App.
+# 🌍 YorkuPublic - Public api server for YorkU iOS App.
 
-📚 The data is *free* for anyone to use :D
 
-📲  Courses data is saved on device.
+### Directory Structure
 
-🍲 dining.json contains food places data.
+```bash
+# server-branch
+├── README.md
+└── server
+    ├── get_api
+    │   ├── google_news.py
+    │   ├── __init__.py
+    │   ├── reddit_post.py
+    │   ├── twitter_post.py
+    │   └── utils.py
+    ├── server.py
+    ├── logs
+    │   ├── log.log
+    │   └── old_logs/
+    ├── Pipfile
+    ├── Pipfile.lock
+    └── requirements.txt
 
-🚽 washrooms.json contains nearby washrooms data.
+2 directories, 13 files
+```
 
-🐍 [Fastapi](https://fastapi.tiangolo.com/) server hosts news.json since this changes more often compared to other data.
- - Check server branch folder for more details
+### Usage
 
+```bash
+# checkout server branch
+git checkout server
+
+# Go to server folder
+cd server
+
+# Run server
+python3 server.py
+
+# Run server - in background mode
+nohup python3 server.py & > /dev/null
+```
 ---
-
-📖 Please, make sure to read the LICENSE.md*
 
 ⚠️ **NOTE:** The API Structure can change at any point as i'm still polishing things on my end
