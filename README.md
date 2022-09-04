@@ -1,7 +1,7 @@
 # 🌍 YorkuPublic - Public api server for YorkU iOS App.
 
 
-### Directory Structure
+### 📁 Directory Structure
 
 ```bash
 # server-branch
@@ -24,7 +24,7 @@
 2 directories, 13 files
 ```
 
-### Usage
+### 🐍 Usage
 
 ```bash
 # checkout server branch
