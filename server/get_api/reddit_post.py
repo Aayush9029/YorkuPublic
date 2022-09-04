@@ -16,7 +16,6 @@ class RedditAPI:
         # Custom cache code
         self.cached_data = []
         self.cache_time = 0
-        # cache_duration is in seconds and lasts for 4 hours (cloudflare already caches for 8 hours)
         self.cache_duration = 60 * 60 * 2
         self.cache_time = time.time()
 

@@ -1,6 +1,6 @@
 import logging
 from enum import Enum
-from os import rename, listdir
+from os import rename, listdir, makedirs, path
 from datetime import datetime
 
 
@@ -12,6 +12,13 @@ class ServiceEnums(Enum):
 
 #  Move logs to logs/old_logs folder on startup (if any)
 try:
+    # if logs folder doesn't exist, create it
+    if not path.exists("logs"):
+        makedirs("logs")
+    # if old_logs folder doesn't exist, create it
+    if not path.exists("logs/old_logs"):
+        makedirs("logs/old_logs")
+
     rename(
         "logs/log.log",
         f"logs/old/log_{datetime.now().strftime('%Y-%m-%d_%H-%M-%S')}.log",
