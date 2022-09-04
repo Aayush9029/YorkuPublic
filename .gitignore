@@ -3,6 +3,11 @@
 
 server_auth.json
 
+logs*
+/logs
+*.log
+*.log.*
+
 ### Linux ###
 *~
 
