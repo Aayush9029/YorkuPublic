@@ -2,13 +2,13 @@
 
 📚 The data is *free* for anyone to use :D
 
-📲  Courses data is saved on device.
-
 🍲 dining.json contains food places data.
 
 🚽 washrooms.json contains nearby washrooms data.
 
-🐍 news.json is dynamic and is hosted on a  [fastapi](https://fastapi.tiangolo.com/) server.
+📲  Courses data is saved on device.
+
+🐍 News data is dynamic and is hosted on a  [fastapi](https://fastapi.tiangolo.com/) server: *checkout* server branch.
 
 ---
 
