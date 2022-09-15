@@ -1,4 +1,4 @@
-# 🌍 YorkuPublic
+# 🌍 [YorkuPublic](https://apps.apple.com/ca/app/york-uni/id1602993186)
 
 ## Hi there!
 
